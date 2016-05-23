@@ -1,0 +1,28 @@
+title: ‹Programming›
+
+host: http://programming-conference.org
+baseurl: /
+
+###############################################
+# Mirror github pages settings
+# safe: true
+# lsi: false
+
+# Build settings
+highlighter: rouge
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
+
+host: 0.0.0.0
+# EOF
