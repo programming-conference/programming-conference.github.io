@@ -21,10 +21,10 @@ Each paper must be accompanied by a plain-language abstract that presents the ke
 
 ### Topics
 
-_Art:_ Aesthetics, coding style, programming for exploration and discovery, novelty seeking programs, programming in the arts and humanities, etc.
+_Art_: Aesthetics, coding style, programming for exploration and discovery, novelty seeking programs, programming in the arts and humanities, etc.
 
-_Science:_ Programming models, machine-learning for programming, individual and team methodology, productivity and effectiveness, conceptual discovery using code repositories (for example), automatic programming, error handling and tolerance, probabilistic programming, type theory, etc.
+_Science_: Programming models, machine-learning for programming, individual and team methodology, productivity and effectiveness, conceptual discovery using code repositories (for example), automatic programming, error handling and tolerance, probabilistic programming, etc.
 
-_Engineering:_ Abstraction, modularity, visual and lively languages, coding tools, debugging tools, programming by example, modeling tools and techniques, specialized languages, dynamic techniques, static techniques, proof technology, testing technology, acceptability techniques, errors, security, distributed and parallel computing languages, probabilistic programming languages, user interfaces, user studies, productivity and methodologies in practice, software development, software engineering, types in practice, etc.
+_Engineering_: Abstraction, modularity, visual and lively languages, coding tools, debugging tools, programming by example, modeling tools and techniques, specialized languages, dynamic techniques, static techniques, proof technology, testing technology, acceptability techniques, errors, security, distributed and parallel computing languages, probabilistic programming languages, user interfaces, user studies, productivity and methodologies in practice, software development, software engineering, etc.
 
 Almost anything about programming is fair game, but in each case there should be a clear and direct relevance to the act and experience of programming. Essays reflecting on topics closely related to programming are likewise welcome.
