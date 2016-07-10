@@ -13,4 +13,5 @@ In cooperation with [ACM](http://www.acm.org/) [SIGPLAN](http://www.sigplan.org/
 
 Call for Papers
 ----------------
-‹t.b.a.›
+
+Please see [Programming Journal](http://programming-journal.org).
