@@ -3,9 +3,16 @@ title: Journal
 short: Journal
 order: 800
 
----
-The [LNCS Transactions on Modularity and Composition](http://www.springer.com/series/7584) aims to publish papers from any part of the programming research lifecycle, including papers on programming practice and experience. 
+--- [The Art, Science and Engineering of
+Programming](http://programming-journal.org/) is a new journal that
+publishes research papers about programming, including, as the name
+says, papers that document the art of programming from a scholarly
+perspective.
 
-Papers submitted are reviewed by referees chosen by the ‹Programming› Program Chair, who is an associate editor for the journal. Authors of accepted papers are invited to present at the conference as a requirement for publication.
+Papers submitted to the journal are reviewed by referees chosen by the
+‹Programming› Conference Program Chair, who is an editor for the
+journal. Authors of accepted papers are invited to present at the
+conference as a requirement for publication. Authors needing financial
+assistance for attending the conference should contact the Program
+Chair of the conference.
 
-Each paper must be accompanied by a plain-language abstract that presents the key points in the paper in a manner understandable by experienced practitioners and researchers in nearby disciplines.
