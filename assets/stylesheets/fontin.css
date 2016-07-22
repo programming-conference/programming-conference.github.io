@@ -22,5 +22,5 @@
   font-family: 'Fontin Sans';
   font-style: italic;
   font-weight: 700;
-  src: local("☺"), url(http://programming-conference.org/assets/fonts/Fontin_Sans_B.otf) format("opentype");
+  src: local("☺"), url(http://programming-conference.org/assets/fonts/Fontin_Sans_BI.otf) format("opentype");
 }
