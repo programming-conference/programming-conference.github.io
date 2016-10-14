@@ -19,12 +19,35 @@ A new journal has been created as the publication vehicle for ‹Programming›.
 
 Each paper must be accompanied by a plain-language abstract that presents the key points in the paper in a manner understandable by experienced practitioners and researchers in nearby disciplines.
 
+### Types of Papers
+
+_Art_: knowledge and technical skills acquired through practice and personal experiences. Examples include libraries, frameworks, languages, APIs, programming models and styles, programming pearls, and essays about programming.
+
+_Science_(Theoretical)_: knowledge and technical skills acquired through mathematical formalisms. Examples include formal programming models and proofs.
+
+_Science_(Empirical)_: knowledge and technical skills acquired through experiments and systematic observations. Examples include user studies and programming-related data mining.
+
+_Engineering_: knowledge and technical skills acquired through designing and building large systems and through calculated application of principles in building those systems. Examples include measurements of artifacts’ properties, development processes and tools, and quality assurance methods.
+
+Almost anything about programming is in scope, but in each case there should be a clear and direct relevance to the act and experience of programming. Essays reflecting on topics closely related to programming are likewise welcome.
+
 ### Topics
 
-_Art_: Aesthetics, coding style, programming for exploration and discovery, novelty seeking programs, programming in the arts and humanities, etc.
-
-_Science_: Programming models, machine-learning for programming, individual and team methodology, productivity and effectiveness, conceptual discovery using code repositories (for example), automatic programming, error handling and tolerance, probabilistic programming, etc.
-
-_Engineering_: Abstraction, modularity, visual and lively languages, coding tools, debugging tools, programming by example, modeling tools and techniques, specialized languages, dynamic techniques, static techniques, proof technology, testing technology, acceptability techniques, errors, security, distributed and parallel computing languages, probabilistic programming languages, user interfaces, user studies, productivity and methodologies in practice, software development, software engineering, etc.
-
-Almost anything about programming is fair game, but in each case there should be a clear and direct relevance to the act and experience of programming. Essays reflecting on topics closely related to programming are likewise welcome.
+* General-purpose programming
+* Distributed systems programming
+* Parallel and multi-core programming
+* Graphics and GPU programming
+* Security programming
+* User interface programming
+* Database programming
+* Visual and live programming
+* Data mining and machine learning programming, and for programming
+* Interpreters, virtual machines and compilers
+* Modularity and separation of concerns
+* Model-based development
+* Metaprogramming and reflection
+* Testing and debugging
+* Program verification
+* Programming education
+* Programming environments
+* Social coding
