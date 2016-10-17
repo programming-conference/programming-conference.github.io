@@ -23,9 +23,9 @@ Each paper must be accompanied by a plain-language abstract that presents the ke
 
 _Art_: knowledge and technical skills acquired through practice and personal experiences. Examples include libraries, frameworks, languages, APIs, programming models and styles, programming pearls, and essays about programming.
 
-_Science_(Theoretical)_: knowledge and technical skills acquired through mathematical formalisms. Examples include formal programming models and proofs.
+_Science (Theoretical)_: knowledge and technical skills acquired through mathematical formalisms. Examples include formal programming models and proofs.
 
-_Science_(Empirical)_: knowledge and technical skills acquired through experiments and systematic observations. Examples include user studies and programming-related data mining.
+_Science (Empirical)_: knowledge and technical skills acquired through experiments and systematic observations. Examples include user studies and programming-related data mining.
 
 _Engineering_: knowledge and technical skills acquired through designing and building large systems and through calculated application of principles in building those systems. Examples include measurements of artifacts’ properties, development processes and tools, and quality assurance methods.
 
@@ -42,7 +42,7 @@ Almost anything about programming is in scope, but in each case there should be 
 * Database programming
 * Visual and live programming
 * Data mining and machine learning programming, and for programming
-* Interpreters, virtual machines and compilers
+* Interpreters, virtual machines, and compilers
 * Modularity and separation of concerns
 * Model-based development
 * Metaprogramming and reflection
