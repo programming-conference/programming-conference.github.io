@@ -21,13 +21,13 @@ Each paper must be accompanied by a plain-language abstract that presents the ke
 
 ### Types of Papers
 
-_Art_: knowledge and technical skills acquired through practice and personal experiences. Examples include libraries, frameworks, languages, APIs, programming models and styles, programming pearls, and essays about programming.
+* _Art_: knowledge and technical skills acquired through practice and personal experiences. Examples include libraries, frameworks, languages, APIs, programming models and styles, programming pearls, and essays about programming.
 
-_Science (Theoretical)_: knowledge and technical skills acquired through mathematical formalisms. Examples include formal programming models and proofs.
+* _Science (Theoretical)_: knowledge and technical skills acquired through mathematical formalisms. Examples include formal programming models and proofs.
 
-_Science (Empirical)_: knowledge and technical skills acquired through experiments and systematic observations. Examples include user studies and programming-related data mining.
+* _Science (Empirical)_: knowledge and technical skills acquired through experiments and systematic observations. Examples include user studies and programming-related data mining.
 
-_Engineering_: knowledge and technical skills acquired through designing and building large systems and through calculated application of principles in building those systems. Examples include measurements of artifacts’ properties, development processes and tools, and quality assurance methods.
+* _Engineering_: knowledge and technical skills acquired through designing and building large systems and through calculated application of principles in building those systems. Examples include measurements of artifacts’ properties, development processes and tools, and quality assurance methods.
 
 Almost anything about programming is in scope, but in each case there should be a clear and direct relevance to the act and experience of programming. Essays reflecting on topics closely related to programming are likewise welcome.
 
