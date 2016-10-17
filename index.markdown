@@ -33,6 +33,8 @@ Almost anything about programming is in scope, but in each case there should be 
 
 ### Topics
 
+Independent of the type of work, ‹Programming› accepts submissions covering several areas of expertise, including but not limited to:
+
 * General-purpose programming
 * Distributed systems programming
 * Parallel and multi-core programming
