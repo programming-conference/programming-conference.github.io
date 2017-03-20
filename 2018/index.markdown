@@ -1,6 +1,10 @@
 ---
 title: ‹Programming› 2018
 order: 198
+featured: ‹Programming› 2018 will be held in Nice, France, April 9–12, 2018
+external: http://2018.programming-conference.org
 ---
 
-‹Programming› 2018 is to be announced soon.
+Nice, Belgium \\
+April 9–12, 2017
+<http://2018.programming-conference.org>

@@ -135,7 +135,9 @@
             {% endif %}
           <section>
             <h1>{{page.title}}</h1>
+            {% comment %}
             {% include submenu.html %}
+            {% endcomment %}
             {% if page.lead %}<div class="lead">{{page.lead}}</div>{% endif %}
             {{content}}
           </section>
