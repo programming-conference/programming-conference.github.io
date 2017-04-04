@@ -13,6 +13,8 @@
     <link rel="icon" type="image/vnd.microsoft.icon" href="{{ site.baseurl }}favicon.ico" />
     <style type="text/css">
       body { padding-top: 70px;} .externalLink::after { content: ' ⇗'; }
+      a {font-family: "Fontin Sans", sans-serif;}
+      nav {font-family: "Fontin Sans", sans-serif;}
       nav .featured {font-weight: bold;} nav#mainnav .active { font-style: italic }
       nav ul { padding-left: 0px; list-style-type: none;}
     </style>
@@ -29,17 +31,11 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-3 col-md-12">
-          <div class="visible-md pull-right">
-            <img src="{{ site.baseurl }}assets/programming.svg" style="height: 10em; padding: 0 1em;" alt="" title="‹Programming›">
-          </div>
           <header id="navbarheader" class="visible-sm visible-xs">
             <nav class="navbar navbar-default navbar-fixed-top">
               <div class="container">
                 <div class="navbar-header">
                   {% assign murl = home.url|remove:'index.html' %}
-                  <a id="programming-navbar-mobile" class="pull-left" href="{{ murl }}">
-                    <img style="height: 3em; padding: .5ex 1em" alt="{{ home.title }}" src="{{ site.baseurl }}assets/programming.svg">
-                  </a>
                   <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                     <span class="sr-only">Toggle navigation</span>
                     <span class="icon-bar"></span>
@@ -106,9 +102,6 @@
                 {% endfor %}
               </ul>
             </nav>
-            <div class="hidden-xs hidden-sm hidden-md">
-              <img src="{{ site.baseurl }}assets/programming.svg" style="width: 75%; padding: 1em;" alt="" title="‹Programming›">
-            </div>
           </header>
         </div>
         <div class="col-lg-9 col-md-12">
@@ -143,12 +136,19 @@
           </section>
         </div>
       </div>
+      <div class="hidden-xs hidden-sm hidden-md pull-left" style="height: 0;">
+        <img src="{{ site.baseurl }}assets/aosa.svg" style="height: 8em; margin-top: -12em;" alt="" title="AOSA">
+      </div>
       <footer>
-      <p>© 2002–{{ 'now' | date: '%Y'}} <a href="{{ responsible.url }}">
+      <p>© 2016–{{ 'now' | date: '%Y'}} <a href="{{ responsible.url }}">
       {% if responsible.short %}{{ responsible.short }}
       {% else %}{{ responsible.title}}
       {% endif %}
-      </a></p>
+      </a>
+      <div class="visible-xs visible-sm visible-md pull-right">
+        <img style="height: 5em; margin-top: -4.5em"  class="pull-right" src="{{ site.baseurl }}assets/aosa.svg"  alt="AOSA, Inc" title="AOSA, Inc">
+      </div>
+      </p>
       </footer>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
