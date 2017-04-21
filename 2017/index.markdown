@@ -1,7 +1,6 @@
 ---
 title: ‹Programming› 2017
 order: 199
-featured: ‹Programming› 2017 will be held in Brussels, Belgium, April 3–6, 2017
 external: http://2017.programming-conference.org
 ---
 
