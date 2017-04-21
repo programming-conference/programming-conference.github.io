@@ -26,7 +26,8 @@
   </head>
   <body>
     {% assign home = site.pages | where:'menutitle', 'About' | first %}
-    {% assign responsible = site.pages | where:'responsible', true | first %}
+    {% assign responsibleurl = "http://aosa-inc.org/steering/" %}
+    {% assign responsibleshort = "AOSA" %}
     {% assign pages = site.pages | where: 'name', 'index.markdown' | sort:"order" %}
     <div class="container">
       <div class="row">
@@ -140,9 +141,9 @@
         <img src="{{ site.baseurl }}assets/aosa.svg" style="height: 8em; margin-top: -12em;" alt="" title="AOSA">
       </div>
       <footer>
-      <p>© 2016–{{ 'now' | date: '%Y'}} <a href="{{ responsible.url }}">
-      {% if responsible.short %}{{ responsible.short }}
-      {% else %}{{ responsible.title}}
+      <p>© 2016–{{ 'now' | date: '%Y'}} <a href="{{ responsibleurl }}">
+      {% if responsibleshort %}{{ responsibleshort }}
+      {% else %}{{ responsibletitle}}
       {% endif %}
       </a>
       <div class="visible-xs visible-sm visible-md pull-right">
