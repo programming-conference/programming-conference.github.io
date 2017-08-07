@@ -1,7 +1,7 @@
 title: ‹Programming›
 
 host: http://programming-conference.org
-baseurl: /
+# baseurl: /
 
 ###############################################
 # Mirror github pages settings
