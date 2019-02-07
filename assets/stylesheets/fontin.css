@@ -3,24 +3,24 @@
   font-family: 'Fontin Sans';
   font-style: normal;
   font-weight: 400;
-  src: local("☺"), url(http://programming-conference.org/assets/fonts/Fontin_Sans_R.otf) format("opentype");
+  src: url(//programming-conference.org/assets/fonts/Fontin_Sans_R.otf) format("opentype");
 }
 @font-face {
   font-family: 'Fontin Sans';
   font-style: italic;
   font-weight: 400;
-  src: local("☺"), url(http://programming-conference.org/assets/fonts/Fontin_Sans_I.otf) format("opentype");
+  src: url(//programming-conference.org/assets/fonts/Fontin_Sans_I.otf) format("opentype");
 }
 
 @font-face {
   font-family: 'Fontin Sans';
   font-style: normal;
   font-weight: 700;
-  src: local("☺"), url(http://programming-conference.org/assets/fonts/Fontin_Sans_B.otf) format("opentype");
+  src: url(//programming-conference.org/assets/fonts/Fontin_Sans_B.otf) format("opentype");
 }
 @font-face {
   font-family: 'Fontin Sans';
   font-style: italic;
   font-weight: 700;
-  src: local("☺"), url(http://programming-conference.org/assets/fonts/Fontin_Sans_BI.otf) format("opentype");
+  src: url(//programming-conference.org/assets/fonts/Fontin_Sans_BI.otf) format("opentype");
 }
