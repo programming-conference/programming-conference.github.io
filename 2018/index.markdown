@@ -1,14 +1,14 @@
 ---
 title: ‹Programming› 2018
 order: 198
-external: http://2018.programming-conference.org
+external: https://2018.programming-conference.org
 redirect_to:
-  - http://2018.programming-conference.org
+  - https://2018.programming-conference.org
 ---
 
 Nice, France \\
 April 9–12, 2018
-<http://2018.programming-conference.org>
+<https://2018.programming-conference.org>
 
 In cooperation with [ACM](http://www.acm.org/) [SIGPLAN](http://www.sigplan.org/) and [SIGSOFT](http://www.sigsoft.org/)
 

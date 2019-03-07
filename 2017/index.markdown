@@ -1,12 +1,12 @@
 ---
 title: ‹Programming› 2017
 order: 199
-external: http://2017.programming-conference.org
+external: https://2017.programming-conference.org
 ---
 
 Vrije Universiteit Brussels, Belgium \\
 April 3–6, 2017
-<http://2017.programming-conference.org>
+<https://2017.programming-conference.org>
 
 In cooperation with [ACM](http://www.acm.org/) [SIGPLAN](http://www.sigplan.org/) and [SIGSOFT](http://www.sigsoft.org/)
 
