@@ -1,7 +1,6 @@
 ---
 title: ‹Programming› 2019
 order: 197
-featured: ‹Programming› 2019 is being held in Genoa, Italy
 external: https://2019.programming-conference.org
 ---
 
