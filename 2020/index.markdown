@@ -6,8 +6,8 @@ external: https://2020.programming-conference.org
 
 Programming 2020 was to be held in
 
-Porto, Italy \\
-23–27, 2020 \\
+Porto, Portugal \\
+March 23–27, 2020 \\
 <https://2020.programming-conference.org>
 
 The global medical situation prohibited a physical meeting.
