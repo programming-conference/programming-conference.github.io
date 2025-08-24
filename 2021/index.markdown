@@ -23,7 +23,7 @@ Call for Papers
 
 ### Scope
 
-[The Art, Science, and Engineering of Programming] (http://programming-journal.org/ "The Programming Journal") accepts papers that advance knowledge of programming. Almost anything about programming is in scope, but in each case there should be a clear relevance to the act and experience of programming. Additionally, papers must be written in a scholarly form. Scholarly works are those that describe ideas in the context of other ideas that are already known, so to contribute to the systematic and long-standing chaining of knowledge. Papers that fail to properly contextualize the work will not be considered.
+[The Art, Science, and Engineering of Programming](https://programming-journal.org/ "The Programming Journal") accepts papers that advance knowledge of programming. Almost anything about programming is in scope, but in each case there should be a clear relevance to the act and experience of programming. Additionally, papers must be written in a scholarly form. Scholarly works are those that describe ideas in the context of other ideas that are already known, so to contribute to the systematic and long-standing chaining of knowledge. Papers that fail to properly contextualize the work will not be considered.
 
 We accept descriptions of work under different perspectives:
 
